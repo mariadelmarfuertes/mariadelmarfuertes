@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariadelmarfuertes" alt="mariadelmarfuertes" /></a> </p>
 
+- 🔭 I’m currently working on [developing a Wordpress plugin](https://github.com/20242-Classes/cop4111c-tp3-wordpress-app-team-3)
+
 - 📫 How to reach me **del_mar95@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
