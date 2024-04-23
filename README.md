@@ -86,13 +86,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: WakaTime Stats</summary>
-    
-  <img align="left" alt="mariadelmarfuertes' WakaTime Stats" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariadelmarfuertes)](https://github.com/mariadelmarfuertes/github-readme-stats)" />
-
-</details>
-
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
