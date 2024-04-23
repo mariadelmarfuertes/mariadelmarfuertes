@@ -107,6 +107,10 @@
 
 </details>
 
+<details>
+  <summary>:zap: Top Languages</summary>
+    <img align="left" alt="mariadelmarfuertes' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadelmarfuertes" />
+</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
