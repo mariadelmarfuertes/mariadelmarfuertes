@@ -103,7 +103,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mariadelmarfuertes' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+  <img align="left" alt="mariadelmarfuertes' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariadelmarfuertes&show_icons=true&theme=dracula" />
 
 </details>
 
