@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">A passionate fullstack developer from South Florida</h3>
+<h3 align="center">An aspiring fullstack developer from South Florida</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariadelmarfuertes" alt="mariadelmarfuertes" /></a> </p>
 
 - 🔭 I’m currently working on [developing a Wordpress plugin](https://github.com/20242-Classes/cop4111c-tp3-wordpress-app-team-3)
 
-- 🌱 I’m currently learning **React Native and AWS**
+- 🌱 I’m currently learning **Azure and AWS**
 
 - 📫 How to reach me **del_mar95@hotmail.com**
 
